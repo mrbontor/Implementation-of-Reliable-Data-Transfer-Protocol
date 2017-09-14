@@ -1,0 +1,2 @@
+# Implementation-of-Reliable-Data-Transfer-Protocol
+The reliable data transfer protocol enables two LAN connected PCs to send image files from one PC to another PC. The image files are fragmented into packets in the sender’s side and integrated into a single image at the receiver’s side. The network congestion avoidance algorithm implemented in this project includes various aspects of AIMD scheme such as ‘slow start’ and ‘congestion window’.
